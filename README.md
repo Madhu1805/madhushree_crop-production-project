@@ -1,6 +1,6 @@
 Project Name: Prediction of Agriculture Crop Production in India
 
-colums-
+colunms-
 Crop: string, crop name
 Variety:string,crop subsidary name
 state: string,Crops Cultivation/production Place
